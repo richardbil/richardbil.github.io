@@ -21,7 +21,7 @@
 title: My whatever
 email: will add later
 description: >- # this means to ignore newlines until "baseurl:"
-  This is basically just the my diary to document my whatever tbh
+  This is basically just my diary to document my whatever tbh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: comes later
